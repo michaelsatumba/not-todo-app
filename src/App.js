@@ -6,7 +6,7 @@ import Footer from './components/Footer';
 
 function App() {
 	return (
-		<div className="h-screen bg-blue-900 ">
+		<div className="h-screen bg-blue-900 font-['Josefin_Sans'] ">
 			{/* Header */}
 			<Header />
 			{/* Main */}
